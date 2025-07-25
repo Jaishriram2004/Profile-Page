@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jaishriram2004/Profile-Page/tree/new/static/css/main.b2a30560.css",
+    "main.js": "/Jaishriram2004/Profile-Page/tree/new/static/js/main.dc4f1412.js",
+    "index.html": "/Jaishriram2004/Profile-Page/tree/new/index.html",
+    "main.b2a30560.css.map": "/Jaishriram2004/Profile-Page/tree/new/static/css/main.b2a30560.css.map",
+    "main.dc4f1412.js.map": "/Jaishriram2004/Profile-Page/tree/new/static/js/main.dc4f1412.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2a30560.css",
+    "static/js/main.dc4f1412.js"
+  ]
+}
